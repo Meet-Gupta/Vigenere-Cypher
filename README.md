@@ -100,9 +100,5 @@ The toolkit is designed to handle large text files with optimized cryptanalysis 
 
 ---
 
-## License
-
----
-
 ## Acknowledgments
 This project was inspired by the need to explore practical cryptographic methods and provide tools for educational purposes in understanding classic encryption techniques.
